@@ -1,6 +1,6 @@
 # Analysis and Visualization of H1B Visa Data in the US
 
-This project offers an in-depth analysis and interactive visualization of H1B visa data in the United States. Utilizing data extracted from Wikipedia, the Bureau of Labor Statistics, and Trulia, the application explores factors affecting the number of H1B visa applicants and the job market for international employees. The project leverages Python and R for data extraction and analysis, with the final visualization presented through an R ShinyApp.
+This project offers an analysis and interactive visualization of H1B visa data in the United States. Utilizing data extracted from Wikipedia, the Bureau of Labor Statistics, and Trulia, the application explores factors affecting the number of H1B visa applicants and the job market for international employees. The project used Python and R for data extraction and analysis, with the final visualization presented through an R ShinyApp.
 
 <img src="https://github.com/JiaruiTang/H1B-Data-ShinyApp/blob/eacb54979cebd53ff038443dbf2d2d2dcb193757/H1b%20Visa%20Visualization.png" alt="H1B Data ShinyApp Visualization" width="60%">
 
