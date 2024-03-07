@@ -7,8 +7,8 @@ This project offers an in-depth analysis and interactive visualization of H1B vi
 ## Contents
 
 - **Data Extraction Scripts:** R scripts used to scrape and preprocess data from the specified sources.
-- **Data Analysis Code:** R scripts that analyze the H1B visa data, focusing on applicant trends and employment statistics.
-- **ShinyApp Code:** The R ShinyApp code that powers the interactive H1B map.
+- **Data Visualization Code:** R scripts that visualize the H1B visa data, focusing on applicant information and employment statistics.
+- **ShinyApp Code:** The R ShinyApp code that powers the interactive H1B map online.
 
 ## Accessing the Visualization
 
